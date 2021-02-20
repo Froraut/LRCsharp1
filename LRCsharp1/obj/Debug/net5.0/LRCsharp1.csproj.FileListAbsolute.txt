@@ -1,0 +1,16 @@
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\bin\Debug\net5.0\LRCsharp1.exe
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\bin\Debug\net5.0\LRCsharp1.deps.json
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\bin\Debug\net5.0\LRCsharp1.runtimeconfig.json
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\bin\Debug\net5.0\LRCsharp1.runtimeconfig.dev.json
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\bin\Debug\net5.0\LRCsharp1.dll
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\bin\Debug\net5.0\ref\LRCsharp1.dll
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\bin\Debug\net5.0\LRCsharp1.pdb
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\obj\Debug\net5.0\LRCsharp1.csprojAssemblyReference.cache
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\obj\Debug\net5.0\LRCsharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\obj\Debug\net5.0\LRCsharp1.AssemblyInfoInputs.cache
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\obj\Debug\net5.0\LRCsharp1.AssemblyInfo.cs
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\obj\Debug\net5.0\LRCsharp1.csproj.CoreCompileInputs.cache
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\obj\Debug\net5.0\LRCsharp1.dll
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\obj\Debug\net5.0\ref\LRCsharp1.dll
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\obj\Debug\net5.0\LRCsharp1.pdb
+C:\Users\nikita\RiderProjects\LRCsharp1\LRCsharp1\obj\Debug\net5.0\LRCsharp1.genruntimeconfig.cache
