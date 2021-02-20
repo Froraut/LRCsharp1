@@ -38,6 +38,8 @@ namespace LRCsharp1
             };
             
             int[] takeDeck = new int[36];
+            int[] arrOne = new int[36];
+            int[] arrTwo = new int[36];
 
             Random obj = new Random();
             
@@ -54,6 +56,19 @@ namespace LRCsharp1
             
             string decision = Console.ReadLine();
             int decisionInt = Convert.ToInt32(decision);
+
+            for (int i = 0; i < 18; i++)
+            {
+                arrOne[i] = takeDeck[i];
+            }
+            
+            int y = 0;
+
+            for (int i = 18; i < 36; i++)
+            {
+                arrTwo[y] = takeDeck[i];
+                y++;
+            }
             
             
         }
