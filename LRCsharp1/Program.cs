@@ -51,6 +51,7 @@ namespace LRCsharp1
             Console.WriteLine("Hello, this is a popular children's game drunkard");
             Console.WriteLine("This game is played by two bots, you can watch them play");
             Console.WriteLine("Do you want to see cards and operations? (1 - yes / 0 - no)");
+            
             string decision = Console.ReadLine();
             int decisionInt = Convert.ToInt32(decision);
             
